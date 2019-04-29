@@ -19,7 +19,10 @@ public class HolaMundo {
         System.out.println("Hola UNIVERSO");
         System.out.println("UNO");
         System.out.println("DOS");
+        System.out.println("TRES");
+        System.out.println("CUATRO");
         System.out.println("ADIOS");
+
     }
     
 }
